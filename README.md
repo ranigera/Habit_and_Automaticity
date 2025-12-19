@@ -1,6 +1,6 @@
 
-# Repository for the Habit and Automaticity Study (Gera et al., [YEAR])
-# Paper reference: "[[PAPER TITLE]]([paper link])"
+# Repository for the Habit and Automaticity Study (Gera et al., [YEAR will be updated upon publication])
+# Paper reference: "[Two facets of automaticity: motor automaticity opposes habit formation](https://osf.io/preprints/psyarxiv/xatzp_v1)"
 
 ## Notes:
 * Each study/generalization dataset is analyzed usign one Jupyter notbook (that executes mostly python code but also calls some R code)
